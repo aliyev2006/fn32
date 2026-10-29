@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="6 amaliy while boyicha"/>
+        <attribute name="authors" value="iii"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-10-29 11:20:05 PM"/>
+        <attribute name="created" value="aWlpO0FaSVpCRUs7MjAyNi0xMC0yOTswNjozNTo1OCBQTTsyMTM2"/>
+        <attribute name="edited" value="aWlpO0FaSVpCRUs7MjAyNi0xMC0yOTsxMToyMDowNSBQTTsyNTsyMjgw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x, a" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="7"/>
+            <input variable="x"/>
+            <while expression="x!=a">
+                <input variable="x"/>
+            </while>
+            <output expression="&quot;ttopdiz&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

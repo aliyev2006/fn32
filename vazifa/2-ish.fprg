@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="6 amaliy while boyicha"/>
+        <attribute name="authors" value="iii"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-10-29 10:53:00 PM"/>
+        <attribute name="created" value="aWlpO0FaSVpCRUs7MjAyNi0xMC0yOTswNjozNTo1OCBQTTsyMTM2"/>
+        <attribute name="edited" value="aWlpO0FaSVpCRUs7MjAyNi0xMC0yOTsxMDo1MzowMCBQTTsxNjsyMjgw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <for variable="a" start="10" end="30" direction="inc" step="1">
+                <output expression="a" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
